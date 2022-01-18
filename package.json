@@ -1,0 +1,20 @@
+{
+  "name": "typescript-for-javascript-developers",
+  "version": "1.0.0",
+  "description": "Udemyで公開中の「[ハンズオンで学ぶ TypeScript - JavaScript エンジニアのための TypeScript徹底入門](https://www.udemy.com/course/ts-for-js-developers/)」の公式リポジトリを参考",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horitomoyuki/typescript-for-javascript-developers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horitomoyuki/typescript-for-javascript-developers/issues"
+  },
+  "homepage": "https://github.com/horitomoyuki/typescript-for-javascript-developers#readme"
+}
